@@ -19,7 +19,7 @@ package com.example.android.marsrealestate
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-
+// https://mars.udacity.com/realestate?filter=all
 class MainActivity : AppCompatActivity() {
 
     /**
